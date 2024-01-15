@@ -1,0 +1,14 @@
+@import "./sections/section0.css";
+@import "./sections/section1.css";
+@import "./sections/section2.css";
+@import "./sections/section3.css";
+@import "./sections/section4.css";
+@import "./sections/section5.css";
+
+@import "./buttons.css";
+@import "./components.css";
+@import "./footer.css";
+@import "./global.css";
+@import "./header.css";
+@import "./reset.css";
+@import "./typography.css";

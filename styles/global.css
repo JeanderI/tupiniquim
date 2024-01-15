@@ -1,0 +1,33 @@
+:root {
+  --dark-blue: #001f3f;
+  --green: #008000;
+  --grey: grey;
+  --Medium_slate-blue: #8a2be2;
+  --blue: #1e90ff;
+}
+
+.basic-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.section-padding {
+  padding: 4rem 0 5rem;
+}
+
+.m-top1 {
+  margin-top: 1rem;
+}
+
+.m-top2 {
+  margin-top: 2rem;
+}
+
+.m-top3 {
+  margin-top: 3rem;
+}
+
+.m-top4 {
+  margin-top: 3rem;
+}
