@@ -22,6 +22,7 @@
 
 .header .menu-box nav ul {
   display: flex;
+  margin-right: 280px;
 }
 
 .header .menu-box nav ul li {
@@ -32,7 +33,7 @@
 .header .menu-box nav ul li a {
   font-family: "Inter", "Roboto", sans-serif;
   font-size: 16px;
-  color: var(--white);
+  color: grey;
   transition: 0.3s;
 }
 
