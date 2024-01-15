@@ -1,0 +1,33 @@
+.button_Discover {
+  color: white;
+  background-image: linear-gradient(to right, #3498db, #7efff5);
+  border: none;
+  width: 30%;
+  padding: 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.button_logIn {
+  border: none;
+  cursor: pointer;
+  gap: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: var(--cinza);
+  border: none;
+  background-color: transparent;
+  padding: 5px;
+}
+
+.button_signUp {
+  border: 1px solid var(--blue);
+  color: var(--blue);
+  padding: 5px 22px 5px 22px;
+  border-radius: 8px;
+  font-weight: bold;
+  background: transparent;
+}
